@@ -1,4 +1,5 @@
 # Monetify
+Note: Monetify was my first deep learning project. I built a Gradio demo that uses VGG19 neural style transfer to give photos a Monet-inspired look, and trained a separate GAN to generate 64×64 images from random noise.
 
 Monetify is an innovative project that leverages artificial intelligence to transform any input image into the style of the renowned impressionist painter, Claude Monet.
 
